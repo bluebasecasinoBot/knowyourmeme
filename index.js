@@ -42,7 +42,7 @@ __SYD.container = () =>{
                 },
                 [
                     __c('span' , {style:'font-size:18px;font-weight:600;'},['C.A']),
-                    __c('span' , {style:'font-size:25px;text-align:center;width:100%;'},['CLICK TO COPY C.A'])
+                    __c('span' , {style:'font-size:20px;font-weight:700;text-align:center;width:100%;'},['CLICK TO COPY C.A'])
                 ]
             ),
             __SYD.textBelow2(),
