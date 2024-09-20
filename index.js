@@ -21,7 +21,7 @@ __SYD.container = () =>{
                             style:'color:#fff;padding:10px;padding-left:20px;font-weight:500;text-transform:capitalize;font-family:creep1'
                         },
                         [
-                            'know your meme'
+                            'Creepy Hooded Guy'
                         ]
                     ),
                     __c(
