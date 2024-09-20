@@ -33,8 +33,8 @@ __SYD.container = () =>{
                 ]
             ),
             __SYD.textBelow(),
-            __SYD.imageOne(),
             __SYD.imageTwo(),
+            __SYD.imageOne(),
             __c(
                 'div',
                 {
