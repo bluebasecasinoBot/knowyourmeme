@@ -114,7 +114,7 @@ __SYD.contactIcons = () =>{
             style:'display:flex;column-gap:30px;width:100%;flex-wrap:wrap;justify-content:center;margin-top:20px;height:200px;align-items:center;background:#000;position:absolute;top:max-content;left:50%;transform:translateX(-50%)'
         },
         [
-            __c('a' , {href:''},
+            __c('a' , {href:'https://t.me/creapyhoodedguy'},
                 [
                     __c('i' , {style:'font-size:30px;height:30px;width:30px;color:#fff;' , class:'fa-brands fa-telegram'}),
                 ]
