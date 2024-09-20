@@ -91,7 +91,7 @@ __SYD.imageOne = () =>{
     return __c(
         'div',
         {
-            style:'height:calc((100vw - 30px) * 0.33);max-width:571px;width:100%;margin-top:30px;background-image:url("./img1.jpg");background-size:contain;background-position:0 center;background-repeat:no-repeat;'
+            style:'height:calc((100vw - 30px) * 0.33);max-height:178px;max-width:571px;width:100%;margin-top:30px;background-image:url("./img1.jpg");background-size:contain;background-position:0 center;background-repeat:no-repeat;'
         },[],{
             // genericStyle:['bg_fit']
         }
@@ -102,7 +102,7 @@ __SYD.imageTwo = () =>{
     return __c(
         'div',
         {
-            style:'height:calc((100vw - 30px) * 0.28);max-width:680px;width:100%;margin-top:30px;background-image:url("./img2.jpg");background-size:contain;background-position:0 center;background-repeat:no-repeat;'
+            style:'height:calc((100vw - 30px) * 0.28);max-height:182px;max-width:680px;width:100%;margin-top:30px;background-image:url("./img2.jpg");background-size:contain;background-position:0 center;background-repeat:no-repeat;'
         }
     )
 }
