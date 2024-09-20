@@ -41,8 +41,8 @@ __SYD.container = () =>{
                     style:'height:100px;width:100%;background:green;margin-top:10px;border-radius:10px;background:#171717;box-shadow:2px 2px 5px #000;font-size:14px;color:#fff;display:flex;align-items:center;padding:10px 15px;font-family:Helvetica, Arial, Verdana, sans-serif;cursor:pointer;'
                 },
                 [
-                    __c('span' , {style:'font-size:18px;font-weight:600;'},['C.A']),
-                    __c('span' , {style:'font-size:20px;font-weight:700;text-align:center;width:100%;'},['CLICK TO COPY C.A'])
+                    __c('span' , {style:'font-size:18px;font-weight:700;'},['C.A']),
+                    __c('span' , {style:'font-size:18px;font-weight:700;text-align:center;width:100%;'},['CLICK TO COPY C.A'])
                 ]
             ),
             __SYD.textBelow2(),
