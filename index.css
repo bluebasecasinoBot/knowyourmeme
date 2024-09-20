@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    /* color: #13133e; */
+}
+
+@font-face {
+    font-family: creep1;
+    src: url(./the_creepy/The\ Creepy.ttf);
+}
+
+@font-face {
+    font-family: creep2;
+    src: url(./creepy_story/Creepy-Story.ttf);
+}
+
+@font-face {
+    font-family: creep3;
+    src: url(./creepy_blood/Creepy\ Blood.ttf);
+}
